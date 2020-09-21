@@ -9,6 +9,7 @@ __main			PROC
 				LDR R0, =0x0000A00C
 				LDR R1, =0xFFFFFFFF
 				EOR R0, R0, R1
+				
 			
 
 				ENDP
